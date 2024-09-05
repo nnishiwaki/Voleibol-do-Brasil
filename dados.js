@@ -16,5 +16,12 @@ let dados = [
         descricao: "Nalbert Tavares Bitencourt é um ex-atleta de voleibol de quadra e de praia, campeão mundial nas categorias de base e adulto, também campeão olímpico em 2004 na Grécia e atualmente comentarista dos canais Globo e palestrante motivacional.",
         compleicao: "Peso: 91 kg • Altura: 1,96 m",
         link: "https://pt.wikipedia.org/wiki/Nalbert_Bitencourt"
+    },
+    {
+        titulo: " José Loiola ",
+        descricao: " José Geraldo Loiola Júnior é ex-voleibolista brasileiro indoor e ex-jogador de voleibol de praia do Brasil, que figurou entre os mais espetaculares jogadores do mundo, e disputou a edição dos Jogos Olímpicos de Verão de 2000 pelo Brasil e ouro no edição do Goodwill Games em 2001.Atualmente é treinador nos Estados Unidos, onde desempenhou parte de sua carreira no vôlei de praia.",
+        compleicao: " Peso: 87 kg • Altura: 1,94 m",
+        link: " https://pt.wikipedia.org/wiki/Jos%C3%A9_Loiola#Biografia "
     }
+
 ];
